@@ -5,3 +5,6 @@ This Mod is provided "as is," without warranty of any kind, express or implied, 
 By using this Mod, you agree to abide by any applicable terms and conditions set forth by Valve Corporation, as well as any additional terms and conditions imposed by the developers of this Mod. Use of this Mod may require ownership of the original game "Portal" by Valve Corporation. Please support the official release.
 
 Thank you for your understanding and enjoy the Mod!
+
+(please do not change or add anything; this repo is public for testing reasons only.
+Only collaborators are authorized to change/modify the files until official release)
