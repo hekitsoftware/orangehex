@@ -3,7 +3,7 @@
 
 gameinfo
 {
-	game	"Orangehex"
+	game	"Orangehex: Early Dev Build"
 	title	"Orangehex"
 	type	"singleplayer_only"
 	nodifficulty	"1"
