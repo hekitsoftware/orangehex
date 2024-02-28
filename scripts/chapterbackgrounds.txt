@@ -1,4 +1,5 @@
 ﻿chapters
 {
 	1	"shaft0_bg"
+	2	"default"
 }
